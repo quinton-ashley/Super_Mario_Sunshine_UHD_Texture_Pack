@@ -52,21 +52,21 @@ Enjoy!
 
 ### -Resources-
 
-If anyone reading this wants to make their own texture pack, here's some links to the websites, apps, and other resources I used:
+If anyone reading this wants to make their own texture pack, here's some links to the websites, apps, and other resources I used:<br>
 
-This is the web version:
+This is the web version:<br>
 http://waifu2x.udp.jp/
 
-Here's a web version that can do batches of textures:
+Here's a web version that can do batches of textures:<br>
 http://waifu2x.me/
 
-Here's the desktop version I used, scroll down to the zip which contains the precompiled exe (not the source zip) and download it.:
+Here's the desktop version I used, scroll down to the zip which contains the precompiled exe (not the source zip) and download it:<br>
 https://github.com/lltcggie/waifu2x-caffe/releases
 
-CUDA download, you will have to make an account:
+CUDA download, you will have to make an account:<br>
 https://developer.nvidia.com/cuda-downloads
 
-Of course check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:
+Of course check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:<br>
 https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
 I would test some textures using the waifu2x web version and the desktop version. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
