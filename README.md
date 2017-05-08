@@ -69,4 +69,4 @@ https://developer.nvidia.com/cuda-downloads
 Of course check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:<br>
 https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
-I would test some textures using the waifu2x web version and the desktop version. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
+I would test some textures using the waifu2x web version and the desktop version to see which will be faster for you. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
