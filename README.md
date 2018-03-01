@@ -1,25 +1,18 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
-### TLDR: Free upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.
-
-### 1,937 textures contributed to this pack in total
-Contribution breakdown:  
-qashto = 1,935   
-Filipianosol = 2
+### TLDR: Upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.
 
 [Click here to see comparisons!](../../wiki)
-
 
 ### -Community Requests-
 
 title : If you're a photoshop wizard that can somehow change the [scanned high-res North American title art](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/blob/master/png/GMS/gui/title/tex1_460x304_2be218765ba946e5_5.png)'s colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
 tree shadows : Some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
-cutscenes :  This isn't a request for this pack more of an insane proposal I just want to throw out there, but if anyone is crazy enough to do frame by frame recreations of any of the cutscenes that would be nuts.  You would have my full permission to use my textures for such a project!
 
 ### -About the pack-
 
-I've been using [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used Bighead's Custom Texture Powershell script to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales with.  Using Gimp, I upscaled textures and manually smoothed out the edges of pollution maps, low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
+I've been using [waifu2x](https://github.com/nagadomi/waifu2x),  a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales from.  Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
 
 ### -Recommended Settings-
 
