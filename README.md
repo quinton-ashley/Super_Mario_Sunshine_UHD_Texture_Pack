@@ -1,4 +1,5 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
+[DDS DOWNLOAD](https://drive.google.com/open?id=183ptyXZvE27mZfo0LvxuqTJzYOcqPdkb)
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 ### TLDR: Upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.
 
