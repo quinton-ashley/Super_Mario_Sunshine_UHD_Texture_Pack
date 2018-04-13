@@ -64,3 +64,15 @@ Of course check out Bighead's custom textures post and his custom texture tool w
 https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
 I would test some textures using the waifu2x web version and the desktop version to see which will be faster for you. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
+
+
+### Donate!
+
+Bitcoin:
+1562cPDAqTCtF1oX6RPMy1n8Rx6jvzYTvN
+
+Patreon:
+[https://www.patreon.com/qashto](https://www.patreon.com/qashto)
+
+Paypal:
+[https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
