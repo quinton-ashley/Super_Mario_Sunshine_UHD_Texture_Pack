@@ -71,6 +71,9 @@ I would test some textures using the waifu2x web version and the desktop version
 Bitcoin:
 1562cPDAqTCtF1oX6RPMy1n8Rx6jvzYTvN
 
+Ethereum:
+0xb4355179da353f1BA4AA0BB5a7E3Ba4FdC7128ea
+
 Patreon:
 [https://www.patreon.com/qashto](https://www.patreon.com/qashto)
 
