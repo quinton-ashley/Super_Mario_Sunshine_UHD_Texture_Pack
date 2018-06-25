@@ -5,12 +5,6 @@
 
 [Click here to see comparisons!](../../wiki)
 
-### -Community Requests-
-
-title : If you're a photoshop wizard that can somehow change the [scanned high-res North American title art](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/blob/master/png/GMS/gui/title/tex1_460x304_2be218765ba946e5_5.png)'s colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
-tree shadows : Some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
-miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
-
 ### -About the pack-
 
 I've been using [waifu2x](https://github.com/nagadomi/waifu2x),  a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales from.  Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
@@ -65,6 +59,10 @@ https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
 I would test some textures using the waifu2x web version and the desktop version to see which will be faster for you. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
 
+### -Community Requests-
+
+tree shadows : Some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
+miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
 
 ### Donate!
 
