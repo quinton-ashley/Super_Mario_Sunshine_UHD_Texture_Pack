@@ -1,20 +1,23 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
-[DDS DOWNLOAD](https://drive.google.com/open?id=183ptyXZvE27mZfo0LvxuqTJzYOcqPdkb)
+[DOWNLOAD LINK](https://drive.google.com/open?id=183ptyXZvE27mZfo0LvxuqTJzYOcqPdkb)
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
-### TLDR: Upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.
+### TLDR: Upscales and retextures for the whole game.  The latest 5.x development build of Dolphin is required.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings to prevent stuttering.
 
 [Click here to see comparisons!](../../wiki)
 
 ### -About the pack-
 
-I've been using [waifu2x](https://github.com/nagadomi/waifu2x),  a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales from.  Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
+I primarily used [waifu2x](https://github.com/nagadomi/waifu2x),  a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales from.  Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
 
 ### -Recommended Settings-
 
-Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin, this will cache the custom textures to RAM when Dolphin loads the game. This will prevent all stuttering caused by using custom textures. This texture pack should only load less than 2 GB to RAM (without the goo maps) which shouldn't be a problem for computers capable of playing the game at UHD smoothly anyway.
+The latest 5.x Development build of Dolphin is required to use this DDS BC7 texture pack.  Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings, this will cache the custom textures to RAM when Dolphin loads the game.  This prevents stuttering.  I also highly recommend using V-Sync to avoid tearing.
 
-Look at the [Dolphin wiki page for Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine) and follow the graphics settings configurations.  One deviation I make from that configuration is to enable Scaled EFB Copy because it makes bodies of water look way better.  I also highly recommend using V-Sync to avoid tearing.  I do not use the widescreen code on the wiki because it causes problems for me, although I've heard it works fine for others.  These are the only Gecko codes that I use:  
-$60FPS (Region-Free)  
+Look at the [Dolphin wiki page for Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine) and follow the graphics settings configurations.  One deviation I make from that configuration is to enable Scaled EFB Copy because it makes bodies of water look way better.  I do not use the widescreen code on the wiki because it causes problems for me, although I've heard it works fine for others.  These are the only Gecko codes that I use:  
+$Remove Heatwave Effect Code NTSC-U
+0419F83C 4E800020
+
+$60FPS (Region-Free)
 F6000002 80008180  
 BF800000 3F000000  
 00000000 43300000  
@@ -31,10 +34,9 @@ D2000004 00000002
 3DC03F80 91DF00D0  
 C03F00D0 00000000  
 E0000000 80008000  
-$16:9 Aspect Ratio (Widescreen) [NTSC-U]  
-04416B74 3F9A7643  
-$Remove Heatwave Effect Code NTSC-U:  
-0419F83C 4E800020
+
+$16:9 Aspect Ratio (Widescreen) [NTSC-U]
+04416B74 3F9A7643
 
 Enjoy!
 
@@ -54,7 +56,7 @@ https://github.com/lltcggie/waifu2x-caffe/releases
 CUDA download, you will have to make an account:<br>
 https://developer.nvidia.com/cuda-downloads
 
-Of course check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:<br>
+Also check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:<br>
 https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
 I would test some textures using the waifu2x web version and the desktop version to see which will be faster for you. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
