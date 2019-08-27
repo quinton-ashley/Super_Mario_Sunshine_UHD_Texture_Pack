@@ -1,5 +1,5 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
-[DOWNLOAD LINK](https://drive.google.com/open?id=1vLL8Q2ttwWEMeBWmQQ5GjLlCxidJC8sj)
+[DOWNLOAD LINK](https://oko.sh/ThJ8ZqhI)
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 ### TLDR: Upscales and retextures for the whole game.  The latest 5.x development build of Dolphin is required.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings to prevent stuttering.
 
@@ -67,12 +67,6 @@ tree shadows : Some of the original tree shadows create a white box around the t
 miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
 
 ### Donate!
-
-Bitcoin:
-1562cPDAqTCtF1oX6RPMy1n8Rx6jvzYTvN
-
-Ethereum:
-0xb4355179da353f1BA4AA0BB5a7E3Ba4FdC7128ea
 
 Patreon:
 [https://www.patreon.com/qashto](https://www.patreon.com/qashto)
