@@ -3,13 +3,33 @@
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 ### TLDR: Upscales and retextures for the whole game.  The latest 5.x development build of Dolphin is required.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings to prevent stuttering.
 
-[Click here to see comparisons!](../../wiki)
+[Click here to see comparison images!](../../wiki)
 
-### -About the pack-
+## -Videos-
+
+#### English:
+
+#### [Super Mario Sunshine HD - 1080p 60fps Widescreen | Dolphin Emulator | 2019](https://www.youtube.com/watch?v=45qFhXl4ySU)  
+[![](https://img.youtube.com/vi/45qFhXl4ySU/0.jpg)](https://www.youtube.com/watch?v=45qFhXl4ySU)  
+
+#### [How to install HD Textures for Super Mario Sunshine (Dolphin)](https://www.youtube.com/watch?v=Fcg2R14DhNI)  
+[![](https://img.youtube.com/vi/Fcg2R14DhNI/0.jpg)](https://www.youtube.com/watch?v=Fcg2R14DhNI)  
+
+#### Spanish:
+
+#### [Dolphin Super Mario Sunshine 60fps Ultra HD 4K | patch 60fps | Prueba y gameplay](https://www.youtube.com/watch?v=3yMXZgDkvmw)  
+[![](https://img.youtube.com/vi/3yMXZgDkvmw/0.jpg)](https://www.youtube.com/watch?v=3yMXZgDkvmw)  
+
+#### German:
+
+#### [SUPER MARIO SUNSHINE 4K / 60FPS / HD TEXTURES GAMEPLAY](https://www.youtube.com/watch?v=49KLnur_O9U)
+[![](https://img.youtube.com/vi/49KLnur_O9U/0.jpg)](https://www.youtube.com/watch?v=49KLnur_O9U)  
+
+## -About the pack-
 
 I primarily used [waifu2x](https://github.com/nagadomi/waifu2x),  a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales from.  Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
 
-### -Recommended Settings-
+## -Recommended Settings-
 
 The latest 5.x Development build of Dolphin is required to use this DDS BC7 texture pack.  Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings, this will cache the custom textures to RAM when Dolphin loads the game.  This prevents stuttering.  I also highly recommend using V-Sync to avoid tearing.
 
@@ -40,7 +60,7 @@ $16:9 Aspect Ratio (Widescreen) [NTSC-U]
 
 Enjoy!
 
-### -Resources-
+## -Resources-
 
 If anyone reading this wants to make their own texture pack, here's some links to the websites, apps, and other resources I used:<br>
 
@@ -61,12 +81,12 @@ https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
 
 I would test some textures using the waifu2x web version and the desktop version to see which will be faster for you. If you don't have an NVIDIA graphics card and CUDA acceleration you might want to just stick with the web version, however if your internet speed isn't that good definitely use the desktop version even if it's just using your CPU.
 
-### -Community Requests-
+## -Community Requests-
 
 tree shadows : Some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
 
-### Donate!
+## Donate!
 
 Patreon:
 [https://www.patreon.com/qashto](https://www.patreon.com/qashto)
