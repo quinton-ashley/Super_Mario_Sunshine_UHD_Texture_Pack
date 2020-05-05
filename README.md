@@ -12,9 +12,6 @@
 #### [Super Mario Sunshine HD - 1080p 60fps Widescreen | Dolphin Emulator | 2019](https://www.youtube.com/watch?v=45qFhXl4ySU)  
 [![](https://img.youtube.com/vi/45qFhXl4ySU/0.jpg)](https://www.youtube.com/watch?v=45qFhXl4ySU)  
 
-#### [How to install HD Textures for Super Mario Sunshine (Dolphin)](https://www.youtube.com/watch?v=Fcg2R14DhNI)  
-[![](https://img.youtube.com/vi/Fcg2R14DhNI/0.jpg)](https://www.youtube.com/watch?v=Fcg2R14DhNI)  
-
 #### Spanish:
 
 #### [Dolphin Super Mario Sunshine 60fps Ultra HD 4K | patch 60fps | Prueba y gameplay](https://www.youtube.com/watch?v=3yMXZgDkvmw)  
