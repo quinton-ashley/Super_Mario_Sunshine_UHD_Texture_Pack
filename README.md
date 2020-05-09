@@ -1,6 +1,7 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 
-[Texture Pack DOWNLOAD LINK](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
+## [DOWNLOAD LINK](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
+
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
 ### TLDR: Upscales and retextures for the whole game! This DDS BC7 pack does not work with v5.0 of Dolphin, it requires the latest v5.x development build. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS HD remake from Nintendo, so if you really like this pack and appreciate the work I did [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
