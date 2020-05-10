@@ -1,18 +1,18 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 
-## [DOWNLOAD LINK](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
+## [DOWNLOAD LINK v2.0.0 May 10th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
 
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
 ### TLDR: Upscales and retextures for the whole game! This DDS BC7 pack does not work with v5.0 of Dolphin, it requires the latest v5.x development build. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS HD remake from Nintendo, so if you really like this pack and appreciate the work I did [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
 
-[Click here to see comparison images!](../../wiki)
+[Click here to see comparison images!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki)
 
-## Videos
+## Videos of the latest Version 2.0.x (May 10th 2020)
 
 COMING SOON!
 
-## Old Videos of Version 1.4.0
+## Old Videos of Version 1.4.0 (March 1st 2018)
 
 #### English:
 
@@ -34,7 +34,9 @@ COMING SOON!
 
 ## About the pack
 
-I primarily used [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures. I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best. I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him! A few original textures are too low-res for waifu2x to make good upscales from. Using Gimp, I manually upscaled a few textures: low-res banners, letters, text, and small character maps. I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack. Most notably the main menu A, B, and C save blocks were retextured. For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
+I primarily used [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures. I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best. I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!
+
+For v2.0.x I used a combination of waifu2x and Filter Forge's plastiwrap filter using a method that Dolphin forums user razius taught me. About half the pack is razius' work and half is my work to finish what he started. This was a collaboration we started two years ago but I lost interest and didn't have time to work on it back then.
 
 ## Recommended Settings
 
@@ -56,6 +58,15 @@ $16:9 Aspect Ratio (Widescreen) [NTSC-U]
 04416B74 3F9A7643
 
 Enjoy!
+
+## Info about Retexturing Work
+
+Most of the textures are quite faithful to the original game with a few notable exceptions. Yet I think the pack as a whole captures and improves upon the original aesthetic of the game. Here are some explanations regarding retextures that don't look like the game's original textures:
+
+- razius' tree textures do not look like the originals in the game but I agree with the changes. The original textures are just way too simple and replicating their aesthetic would look wrong in a UHD pack.
+- In Noki Bay I used a bit of artistic license to make textures that are quite different. The granite textures are some of the largest in the game. Instead of having a variety of smaller textures for the many walls in this area the game only uses two textures for all of them. The upscales of the original textures looked nice from a distance but weren't detailed enough when playing the level at 4K. I used a combo of waifu2x and Filter Forge's Bad Trip filter. I went through a lot of variations to get good results from this method.
+- I kind of redesigned the boats in Delfino Plaza cause the original texture is so tiny for such a large asset. If you want to play that one Delfino Plaza level you have to access with Yoshi you're gonna spend a good amount of time on these boats lol. Luckily I could source the wood textures, roof hatching, and bamboo doors from larger textures in the game. I think it turned out great.
+- The signs in the game use a tiny texture with cute little drawings on them but they're way to small to upscale. I made some drawings of my own inspired by these drawings.
 
 ## Resources
 
