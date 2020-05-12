@@ -32,6 +32,10 @@ COMING SOON!
 
 [![](https://img.youtube.com/vi/49KLnur_O9U/0.jpg)](https://www.youtube.com/watch?v=49KLnur_O9U)
 
+## News Articles
+
+[videogameschronicle](https://www.videogameschronicle.com/news/super-mario-bros-35th-anniversary/)
+
 ## About the pack
 
 I primarily used [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures. I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best. I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!
