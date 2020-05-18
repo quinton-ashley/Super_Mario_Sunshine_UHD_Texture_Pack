@@ -10,7 +10,13 @@ Check out these [comparison images](https://github.com/quinton-ashley/Super_Mari
 
 ## Videos of the latest Version 2.0.x (May 10th 2020)
 
-COMING SOON!
+#### [Release video showing in-game comparisons!](https://www.youtube.com/watch?v=rTuVt89yVTM)
+
+[![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)
+
+These shirts were made to commemorate the release of v2 of this UHD texture pack!
+Buy the Sunshine Glyphs Shirt!  https://www.bonfire.com/sunshine-glyphs-shirt/
+Buy the Warp Pipe Shirt!  https://www.bonfire.com/warp-pipe-shirt/
 
 ## Old Videos of Version 1.4.0 (March 1st 2018)
 
