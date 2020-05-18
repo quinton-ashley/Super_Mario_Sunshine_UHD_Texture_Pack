@@ -14,9 +14,15 @@ Check out these [comparison images](https://github.com/quinton-ashley/Super_Mari
 
 [![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)
 
-These shirts were made to commemorate the release of v2 of this UHD texture pack!
-Buy the Sunshine Glyphs Shirt!  https://www.bonfire.com/sunshine-glyphs-shirt/
-Buy the Warp Pipe Shirt!  https://www.bonfire.com/warp-pipe-shirt/
+## Merch
+
+These shirts were made to commemorate the release of v2 of this UHD texture pack! Available in several different colors.
+
+### Buy the Sunshine Glyphs Shirt!
+[![](https://c.bonfireassets.com/thumb/design-image/e3a4cb6d-af15-4d39-8c08-443438bdbe1f/e4213c53-8052-4c44-ad64-9d06f2cda5e3/?size=900)](https://www.bonfire.com/sunshine-glyphs-shirt/)
+
+### Buy the Warp Pipe Shirt!
+[![](https://c.bonfireassets.com/thumb/design-image/c9848b30-c216-42d7-9460-e1852e02f3cb/1c8be962-c6d5-4adb-9d12-49db4f1ed6a6/?size=900)](https://www.bonfire.com/warp-pipe-shirt/)
 
 ## Old Videos of Version 1.4.0 (March 1st 2018)
 
