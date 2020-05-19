@@ -8,6 +8,8 @@
 
 Check out these [comparison images](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki) and [in-game screenshots!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki/Screenshots)
 
+Don't download this png repository to use in-game, use the download link above and download the GMS.7z file from the latest v2.0.x release.
+
 ## Videos of the latest Version 2.0.x (May 10th 2020)
 
 #### [Release video showing in-game comparisons!](https://www.youtube.com/watch?v=rTuVt89yVTM)
@@ -80,6 +82,10 @@ Most of the textures are quite faithful to the original game with a few notable 
 - In Noki Bay I used a bit of artistic license to make textures that are quite different. The granite textures are some of the largest in the game. Instead of having a variety of smaller textures for the many walls in this area the game only uses two textures for all of them. The upscales of the original textures looked nice from a distance but weren't detailed enough when playing the level at 4K. I used a combo of waifu2x and Filter Forge's Bad Trip filter. I went through a lot of variations to get good results from this method.
 - I kind of redesigned the boats in Delfino Plaza cause the original texture is so tiny for such a large asset. If you want to play that one Delfino Plaza level you have to access with Yoshi you're gonna spend a good amount of time on these boats lol. Luckily I could source the wood textures, roof hatching, and bamboo doors from larger textures in the game. I think it turned out great.
 - The signs in the game use a tiny texture with cute little drawings on them but they're way to small to upscale. I made some drawings of my own inspired by these drawings.
+
+## Info about PNG vs DDS
+
+This repo has png files only for people that want to see the source files that I used to make the DDS texture pack.  Trying to use the png files will cause Dolphin to allocate 9GB of memory to the textures and make the game less playable or unplayable depending on your hardware.  Using the DDS pack will only cause Dolphin to allocate 2.4GB.  This occurs because the PNG files are loaded into memory completely uncompressed (really bad for big textures) and the DDS texture files are compressed. With the DDS pack gameplay should be smooth 60fps at 4K even if you have even entry level gaming hardware (as of 2020).
 
 ## Resources
 
