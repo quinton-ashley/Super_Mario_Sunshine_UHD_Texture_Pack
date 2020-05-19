@@ -18,7 +18,7 @@ Don't download this png repository to use in-game, use the download link above a
 
 ## Merch : Sunshine Glyphs and Warp Pipe Shirts!
 
-These shirts were made to commemorate the release of v2 of this UHD texture pack! Available in several different colors.
+These shirts were made to commemorate the release of v2 of this UHD texture pack! Available in all sizes and a few different colors.
 
 [![](https://c.bonfireassets.com/thumb/design-image/e3a4cb6d-af15-4d39-8c08-443438bdbe1f/e4213c53-8052-4c44-ad64-9d06f2cda5e3/?size=400)](https://www.bonfire.com/sunshine-glyphs-shirt/)
 [![](https://c.bonfireassets.com/thumb/design-image/c9848b30-c216-42d7-9460-e1852e02f3cb/1c8be962-c6d5-4adb-9d12-49db4f1ed6a6/?size=400)](https://www.bonfire.com/warp-pipe-shirt/)
