@@ -57,19 +57,20 @@ For v2.0.x I used a combination of waifu2x and Filter Forge's plastiwrap filter 
 
 The latest 5.x Development build of Dolphin is required to use this DDS BC7 texture pack. Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings, this will cache the custom textures to RAM when Dolphin loads the game. This prevents stuttering. I also highly recommend using V-Sync to avoid tearing.
 
-Look at the [Dolphin wiki page for Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine) and follow the graphics settings configurations. One deviation I make from that configuration is to enable Scaled EFB Copy because it makes bodies of water look way better. I do not use the widescreen code on the wiki because it causes problems for me, although I've heard it works fine for others. These are the only Gecko codes that I use:  
-$Remove Heatwave Effect Code NTSC-U
+Look at the [Dolphin wiki page for Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine) and follow the graphics settings configurations. One deviation I make from that configuration is to enable Scaled EFB Copy because it makes bodies of water look way better. I do not use the widescreen code on the wiki because it causes problems for me, although I've heard it works fine for others. These are the only Gecko codes that I use:
+
+$Remove Heatwave Effect Code NTSC-U  
 0419F83C 4E800020
 
-60FPS (NTSC-U) [gamemasterplc]
-044167B8 3F800000
-042FCB24 60000000
-04414904 3CA3D70A
-C20066EC 00000002
-C2C28028 EC2105B2
+60FPS (NTSC-U) [gamemasterplc]  
+044167B8 3F800000  
+042FCB24 60000000  
+04414904 3CA3D70A  
+C20066EC 00000002  
+C2C28028 EC2105B2  
 FEC00890 00000000
 
-$16:9 Aspect Ratio (Widescreen) [NTSC-U]
+$16:9 Aspect Ratio (Widescreen) [NTSC-U]  
 04416B74 3F9A7643
 
 Enjoy!
