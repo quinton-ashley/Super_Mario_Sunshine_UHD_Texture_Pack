@@ -8,7 +8,9 @@
 
 Check out these [comparison images](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki) and [in-game screenshots!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki/Screenshots)
 
-Don't download this png repository to use in-game, use the download link above and download the GMS.7z file from the latest v2.0.x release.
+Don't download this png repository to use in-game, use the download link above and download the GMS.7z file from the latest v2.0.x release. Put the textures in the Textures folder. GMS is SMS's game id.
+Windows: C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS
+Linux: ~/.local/share/dolphin-emu/Load/Textures/GMS
 
 ## Videos of the latest Version 2.0.x (May 10th 2020)
 
