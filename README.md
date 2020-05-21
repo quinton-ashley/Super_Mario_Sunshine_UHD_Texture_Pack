@@ -94,17 +94,11 @@ This repo has png files only for people that want to see the source files that I
 
 If anyone reading this wants to make their own texture pack, here's some links to the websites, apps, and other resources I used:<br>
 
-This is the web version:<br>
-http://waifu2x.udp.jp/
-
-Here's a web version that can do batches of textures:<br>
-http://waifu2x.me/
-
-Here's the desktop version I used, scroll down to the zip which contains the precompiled exe (not the source zip) and download it:<br>
-https://github.com/lltcggie/waifu2x-caffe/releases
-
-CUDA download, you will have to make an account:<br>
-https://developer.nvidia.com/cuda-downloads
+[Filter Forge](https://www.filterforge.com/)
+[waifu2x web](http://waifu2x.udp.jp/)
+[waifu2x batch web](http://waifu2x.me/)
+[waifu2x desktop](https://github.com/lltcggie/waifu2x-caffe/releases)
+[CUDA](https://developer.nvidia.com/cuda-downloads)
 
 Also check out Bighead's custom textures post and his custom texture tool which is very good for creating seamless textures, doing file conversions, optimizing png files, and other things that would be quite awful to do manually:<br>
 https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info
