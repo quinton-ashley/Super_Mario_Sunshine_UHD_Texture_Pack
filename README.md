@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
-### TLDR: Upscales and retextures for the whole game! This DDS BC7 pack does not work with v5.0 of Dolphin, it requires the latest v5.x development build. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS HD remake from Nintendo, so if you really like this pack and appreciate the work I did [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
+### TLDR: Upscales and retextures for the whole game! This DDS BC7 pack does not work with v5.0 of Dolphin, it requires the latest v5.x development build. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS UHD remake from Nintendo, so if you really like this pack and appreciate the work I did [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
 
 Check out these [comparison images](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki) and [in-game screenshots!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki/Screenshots)
 
@@ -24,6 +24,10 @@ These shirts were made to commemorate the release of v2 of this UHD texture pack
 
 [![](https://c.bonfireassets.com/thumb/design-image/e3a4cb6d-af15-4d39-8c08-443438bdbe1f/e4213c53-8052-4c44-ad64-9d06f2cda5e3/?size=400)](https://www.bonfire.com/sunshine-glyphs-shirt/)
 [![](https://c.bonfireassets.com/thumb/design-image/c9848b30-c216-42d7-9460-e1852e02f3cb/1c8be962-c6d5-4adb-9d12-49db4f1ed6a6/?size=400)](https://www.bonfire.com/warp-pipe-shirt/)
+
+## PS4 Button Textures
+
+Using a PS4 controller to play? Download the [PS4 button textures add-on](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/v2.0.x/SMS_PS4_Button_Textures.zip) too!
 
 ## Old Videos of Version 1.4.0 (March 1st 2018)
 
