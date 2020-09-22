@@ -25,7 +25,7 @@ These shirts were made to commemorate the release of v2 of this UHD texture pack
 [![](https://c.bonfireassets.com/thumb/design-image/e3a4cb6d-af15-4d39-8c08-443438bdbe1f/e4213c53-8052-4c44-ad64-9d06f2cda5e3/?size=400)](https://www.bonfire.com/sunshine-glyphs-shirt/)
 [![](https://c.bonfireassets.com/thumb/design-image/c9848b30-c216-42d7-9460-e1852e02f3cb/1c8be962-c6d5-4adb-9d12-49db4f1ed6a6/?size=400)](https://www.bonfire.com/warp-pipe-shirt/)
 
-## PS4 Button Textures
+## PS4 Button Textures by Rocketboy95
 
 Using a PS4 controller to play? Download the [PS4 button textures add-on](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/v2.0.x/SMS_PS4_Button_Textures.zip) too!
 
