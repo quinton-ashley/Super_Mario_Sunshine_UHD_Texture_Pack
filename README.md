@@ -1,6 +1,6 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 
-## [DOWNLOAD LINK v2.0.0 May 10th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
+## [DOWNLOAD LINK v2.1.0 October 4th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
 
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
@@ -8,11 +8,13 @@
 
 Check out these [comparison images](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki) and [in-game screenshots!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki/Screenshots)
 
-Don't download this png repository to use in-game, use the download link above and download the GMS.7z file from the latest v2.0.x release. Put the textures in the Textures folder. GMS is SMS's game id.  
-Windows: C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS  
-Linux: ~/.local/share/dolphin-emu/Load/Textures/GMS
+Don't download this png repository to use in-game, use the download link above and download the GMS.7z file from the latest release. Put the textures in the Textures folder. GMS is SMS's game id.  
+Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`
+Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`
 
-## Videos of the latest Version 2.0.x (May 10th 2020)
+If you're updating to v2.1.0 from v2.0.0 then you can just download the update patch instead of downloading the whole pack.
+
+## Videos of the latest Version 2.0.0+ (May 10th 2020)
 
 #### [Release video showing in-game comparisons!](https://www.youtube.com/watch?v=rTuVt89yVTM)
 
@@ -92,7 +94,7 @@ Most of the textures are quite faithful to the original game with a few notable 
 
 ## Info about PNG vs DDS
 
-This repo has png files only for people that want to see the source files that I used to make the DDS texture pack.  Trying to use the png files will cause Dolphin to allocate 9GB of memory to the textures and make the game less playable or unplayable depending on your hardware.  Using the DDS pack will only cause Dolphin to allocate 2.4GB.  This occurs because the PNG files are loaded into memory completely uncompressed (really bad for big textures) and the DDS texture files are compressed. With the DDS pack gameplay should be smooth 60fps at 4K even if you have even entry level gaming hardware (as of 2020).
+This repo has png files only for people that want to see the source files that I used to make the DDS texture pack. Trying to use the png files will cause Dolphin to allocate 9GB of memory to the textures and make the game less playable or unplayable depending on your hardware. Using the DDS pack will only cause Dolphin to allocate 2.4GB. This occurs because the PNG files are loaded into memory completely uncompressed (really bad for big textures) and the DDS texture files are compressed. With the DDS pack gameplay should be smooth 60fps at 4K even if you have even entry level gaming hardware (as of 2020).
 
 ## Resources
 
