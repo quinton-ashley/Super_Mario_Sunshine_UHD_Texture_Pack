@@ -1,6 +1,6 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 
-## [DOWNLOAD LINK v2.1.0 October 4th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
+## [DOWNLOAD LINK v2.1.1 October 4th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
 
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
@@ -12,7 +12,7 @@ Don't download this png repository to use in-game, use the download link above a
 Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`
 Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`
 
-If you're updating to v2.1.0 from v2.0.0 then you can just download the update patch instead of downloading the whole pack.
+If you're updating to v2.1.1 from v2.0.0 then you can just download the [update patch](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/SMS_UHD_Update_Patch_1.7z) instead of downloading the whole pack.
 
 ## Videos of the latest Version 2.0.0+ (May 10th 2020)
 

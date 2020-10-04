@@ -1,7 +1,7 @@
 {
   "name": "Super Mario Sunshine UHD",
   "id" : "super-mario-sunshine-uhd",
-  "version": "2.0.x",
+  "version": "2.1.1",
   "authors": ["qashto", "razius", "The Dolphin Community"],
   "website": "https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack",
   "description": "Upscales and retextures for Super Mario Sunshine.",
