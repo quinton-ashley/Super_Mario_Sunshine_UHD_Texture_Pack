@@ -31,35 +31,19 @@ These shirts were made to commemorate the release of v2 of this UHD texture pack
 
 Using a PS4 controller to play? Download the [PS4 button textures add-on](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/v2.0.x/SMS_PS4_Button_Textures.zip) too!
 
-## Old Videos of Version 1.4.0 (March 1st 2018)
+## Info on the v2.1.1 update patch (October 4th, 2020)
 
-#### English:
+This update adds M graffiti warp textures by cheatfreak47, a font texture fix by Scall, a new North American title texture by qashto (me) that was upscaled from the SMS title in Super Mario 3D All Stars, and an alternate NA title texture which is an original vector art style rendering made by twitter user [@WhaddupNico](https://twitter.com/WhaddupNico/status/1284291766305329152).
 
-#### [Super Mario Sunshine HD - 1080p 60fps Widescreen | Dolphin Emulator | 2019](https://www.youtube.com/watch?v=45qFhXl4ySU)
+Download this update patch (67MB) and add it to v2 of the pack! :)
 
-[![](https://img.youtube.com/vi/45qFhXl4ySU/0.jpg)](https://www.youtube.com/watch?v=45qFhXl4ySU)
-
-#### Spanish:
-
-#### [Dolphin Super Mario Sunshine 60fps Ultra HD 4K | patch 60fps | Prueba y gameplay](https://www.youtube.com/watch?v=3yMXZgDkvmw)
-
-[![](https://img.youtube.com/vi/3yMXZgDkvmw/0.jpg)](https://www.youtube.com/watch?v=3yMXZgDkvmw)
-
-#### German:
-
-#### [SUPER MARIO SUNSHINE 4K / 60FPS / HD TEXTURES GAMEPLAY](https://www.youtube.com/watch?v=49KLnur_O9U)
-
-[![](https://img.youtube.com/vi/49KLnur_O9U/0.jpg)](https://www.youtube.com/watch?v=49KLnur_O9U)
-
-## News Articles
-
-[videogameschronicle](https://www.videogameschronicle.com/news/super-mario-bros-35th-anniversary/)
+https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/2.1.1/SMS_UHD_Update_Patch_1_DDS.7z
 
 ## About the pack
 
 I primarily used [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures. I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best. I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!
 
-For v2.0.x I used a combination of waifu2x and Filter Forge's plastiwrap filter using a method that Dolphin forums user razius taught me. About half the pack is razius' work and half is my work to finish what he started. This was a collaboration we started two years ago but I lost interest and didn't have time to work on it back then.
+For version 2 I used a combination of waifu2x and Filter Forge's plastiwrap filter using a method that Dolphin forums user razius taught me. About half the pack is razius' work and half is my work to finish what he started. This was a collaboration we started two years ago but I lost interest and didn't have time to work on it back then.
 
 ## Recommended Settings
 
@@ -117,3 +101,27 @@ Patreon:
 
 Paypal:
 [https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
+
+## Old Videos of Version 1.4.0 (March 1st 2018)
+
+#### English:
+
+#### [Super Mario Sunshine HD - 1080p 60fps Widescreen | Dolphin Emulator | 2019](https://www.youtube.com/watch?v=45qFhXl4ySU)
+
+[![](https://img.youtube.com/vi/45qFhXl4ySU/0.jpg)](https://www.youtube.com/watch?v=45qFhXl4ySU)
+
+#### Spanish:
+
+#### [Dolphin Super Mario Sunshine 60fps Ultra HD 4K | patch 60fps | Prueba y gameplay](https://www.youtube.com/watch?v=3yMXZgDkvmw)
+
+[![](https://img.youtube.com/vi/3yMXZgDkvmw/0.jpg)](https://www.youtube.com/watch?v=3yMXZgDkvmw)
+
+#### German:
+
+#### [SUPER MARIO SUNSHINE 4K / 60FPS / HD TEXTURES GAMEPLAY](https://www.youtube.com/watch?v=49KLnur_O9U)
+
+[![](https://img.youtube.com/vi/49KLnur_O9U/0.jpg)](https://www.youtube.com/watch?v=49KLnur_O9U)
+
+## News Articles
+
+[videogameschronicle](https://www.videogameschronicle.com/news/super-mario-bros-35th-anniversary/)
