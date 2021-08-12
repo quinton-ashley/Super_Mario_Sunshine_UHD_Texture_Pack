@@ -4,13 +4,14 @@
 
 ![](https://raw.githubusercontent.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/master/textures/GMS/gui/title/tex1_490x270_8173791dd11cea7c_5.png)
 
-### TLDR: This is the definitive SMS texture pack, a collaboration between qashto and razius, that includes upscales and retextures for the whole game! Download the DDS BC7 version of this pack, which does not work with v5.0 of Dolphin, it requires the latest v5.x development build. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS HD remake from Nintendo, so if you really like this pack and appreciate the work I did, [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
+### TLDR: This is the definitive SMS texture pack, a collaboration between qashto and razius, that includes upscales and retextures for the whole game! Download the DDS BC7 version of this pack. The latest v5.x development build of Dolphin is required. Check "Enable Cheats" in the General settings of Dolphin. Check "Load Custom Textures" and "Prefetch Custom Textures" in the Advanced tab of the Graphics settings to prevent stuttering. I know a lot of you would probably pay $60 for a SMS HD remake from Nintendo, so if you really like this pack and appreciate the work I did, [send me $60!](https://www.paypal.me/qashto/60) ...any amount is good though I guess ;)
 
 Check out these [comparison images](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki) and [in-game screenshots!](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/wiki/Screenshots)
 
-Don't download this GitHub repository to use in-game, use the download link above and download the `GMS.7z` file from the latest release. Put the textures in the Textures folder. GMS is SMS's game id.  
-Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`
-Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`
+Don't download this GitHub repository to use in-game, use the download link above and download the `GMS.7z` file from the latest release. Put the textures in the Textures folder. `GMS` is Super Mario Sunshine's game id.  
+
+Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`  
+Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`  
 macOS: `/Users/qashto/Library/Application\ Support/Dolphin/Load/Textures/GMS`
 
 If you're updating to v2.1.1 from v2.0.0 then you can just download the [update patch](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/SMS_UHD_Update_Patch_1.7z) instead of downloading the whole pack.
