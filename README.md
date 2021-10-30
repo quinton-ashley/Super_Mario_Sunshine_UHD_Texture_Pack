@@ -18,9 +18,13 @@ If you're updating to v2.1.1 from v2.0.0 then you can just download the [update 
 
 ## Videos of the latest Version 2.0.0+ (May 10th 2020)
 
-#### [Release video showing in-game comparisons!](https://www.youtube.com/watch?v=rTuVt89yVTM)
-
-[![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)
+|[My version 2 announcement video!](https://www.youtube.com/watch?v=rTuVt89yVTM)|[Tutorial in English by Team Fatal](https://www.youtube.com/watch?v=FZTslOMIPpQ)|
+|:--:|:--:|
+|[![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)|[![](https://img.youtube.com/vi/FZTslOMIPpQ/0.jpg)](https://www.youtube.com/watch?v=FZTslOMIPpQ)|
+|**[Tutorial in British by Twin Cherry Studio](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)**|**[Tutoriales en Español por EmuJavier](https://www.youtube.com/watch?v=-g-mNM1IOJY)**|
+|[![](https://img.youtube.com/vi/ZCy7O19Z2Nc/0.jpg)](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)|[![](https://img.youtube.com/vi/-g-mNM1IOJY/0.jpg)](https://www.youtube.com/watch?v=-g-mNM1IOJY)|
+|**[Tutoriales en Español por IORIPTY](https://www.youtube.com/watch?v=wWrCvXxWP7U)**|**[Fan Trailer by KitsuneFelix](https://www.youtube.com/watch?v=ml8A9z1pzKc)**|
+|[![](https://img.youtube.com/vi/wWrCvXxWP7U/0.jpg)](https://www.youtube.com/watch?v=wWrCvXxWP7U)|[![](https://img.youtube.com/vi/ml8A9z1pzKc/0.jpg)](https://www.youtube.com/watch?v=ml8A9z1pzKc)|
 
 ## Merch : Sunshine Glyphs and Warp Pipe Shirts!
 
@@ -35,7 +39,7 @@ Using a PS4 controller to play? Download the [PS4 button textures add-on](https:
 
 ## Info on the v2.1.1 update patch (October 4th, 2020)
 
-This update adds M graffiti warp textures by cheatfreak47, a font texture fix by Scall, a new North American title texture by qashto (me) that was upscaled from the SMS title in Super Mario 3D All Stars, and an alternate NA title texture which is an original vector art style rendering made by twitter user [@WhaddupNico](https://twitter.com/WhaddupNico/status/1284291766305329152).
+This update adds M graffiti warp textures by cheatfreak47, a font texture fix by Scall, a new North American title texture by qashto (me) that was upscaled from the SMS title in Super Mario 3D All Stars, and an alternate North American title texture which is an original vector art style rendering made by twitter user [@WhaddupNico](https://twitter.com/WhaddupNico/status/1284291766305329152).
 
 Download this update patch (67MB) and add it to v2 of the pack! :)
 
@@ -45,7 +49,7 @@ https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases
 
 I primarily used [waifu2x](https://github.com/nagadomi/waifu2x), a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it for certain textures, most notably the goo textures. I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best. I used [Bighead's Custom Texture Powershell script](https://forums.dolphin-emu.org/Thread-dolphin-custom-textures-info) to make the goo and other seamless textures, big thanks to him!
 
-For version 2 I used a combination of waifu2x and Filter Forge's plastiwrap filter using a method that Dolphin forums user razius taught me. About half the pack is razius' work and half is my work to finish what he started. This was a collaboration we started two years ago but I lost interest and didn't have time to work on it back then.
+For version 2 I used a combination of waifu2x and Filter Forge's plastiwrap filter using a method that Dolphin forums user razius taught me. About half the pack is razius' work and half is my work to finish what he started. This was a collaboration we started two years ago but I lost interest and didn't have time to work on it back then. Now, thanks to the COVID-19 pandemic, I finally finished it!
 
 ## Recommended Settings
 
