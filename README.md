@@ -14,7 +14,7 @@ Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`
 Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`  
 macOS: `/Users/qashto/Library/Application\ Support/Dolphin/Load/Textures/GMS`
 
-If you're updating to v2.1.1 from v2.0.0 then you can just download the [update patch](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/SMS_UHD_Update_Patch_1.7z) instead of downloading the whole pack.
+If you're updating to v2.1.1 from v2.0.0 then you can just download the [update patch](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/2.1.1/SMS_PS4_Button_Textures.zip) instead of downloading the whole pack.
 
 ## Videos of the latest Version 2.0.0+ (May 10th 2020)
 
