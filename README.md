@@ -35,7 +35,7 @@ These shirts were made to commemorate the release of v2 of this UHD texture pack
 
 ## PS4 Button Textures by Rocketboy95
 
-Using a PS4 controller to play? Download the [PS4 button textures add-on](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/v2.0.x/SMS_PS4_Button_Textures.zip) too!
+Using a PS4 controller to play? Download the [PS4 button textures add-on](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/download/v2.1.1/SMS_PS4_Button_Textures.zip) too!
 
 ## Info on the v2.1.1 update patch (October 4th, 2020)
 
