@@ -25,6 +25,8 @@ If you're updating to v2.1.1 from v2.0.0 then you can just download the [update 
 |[![](https://img.youtube.com/vi/ZCy7O19Z2Nc/0.jpg)](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)|[![](https://img.youtube.com/vi/-g-mNM1IOJY/0.jpg)](https://www.youtube.com/watch?v=-g-mNM1IOJY)|
 |**[Tutoriales en Español por IORIPTY](https://www.youtube.com/watch?v=wWrCvXxWP7U)**|**[Fan Trailer by KitsuneFelix](https://www.youtube.com/watch?v=ml8A9z1pzKc)**|
 |[![](https://img.youtube.com/vi/wWrCvXxWP7U/0.jpg)](https://www.youtube.com/watch?v=wWrCvXxWP7U)|[![](https://img.youtube.com/vi/ml8A9z1pzKc/0.jpg)](https://www.youtube.com/watch?v=ml8A9z1pzKc)|
+|**[Tutoriel en Français par Super Saiyan Crew](https://www.youtube.com/watch?v=Jq06XdusLK0)**|**[Gameplay by Free Emulator](https://www.youtube.com/watch?v=gnuTaCw_3oo)**|
+|[![](https://img.youtube.com/vi/Jq06XdusLK0/0.jpg)](https://www.youtube.com/watch?v=Jq06XdusLK0)|[![](https://img.youtube.com/vi/gnuTaCw_3oo/0.jpg)](https://www.youtube.com/watch?v=gnuTaCw_3oo)|
 
 ## Merch : Sunshine Glyphs and Warp Pipe Shirts!
 
