@@ -105,10 +105,12 @@ I would test some textures using the waifu2x web version and the desktop version
 ## Donate!
 
 Patreon:
-[https://www.patreon.com/qashto](https://www.patreon.com/qashto)
+<https://www.patreon.com/qashto>
 
 Paypal:
-[https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
+<https://www.paypal.me/qashto/5>
+
+Venmo: @Quinton-Ashley
 
 ## Old Videos of Version 1.4.0 (March 1st 2018)
 
