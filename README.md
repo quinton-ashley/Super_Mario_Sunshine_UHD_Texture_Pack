@@ -18,13 +18,11 @@ If you're updating to v2.1.1 from v2.0.0 then you can just download the [update 
 
 ## Videos of the latest Version 2.0.0+ (May 10th 2020)
 
-|[My version 2 announcement video!](https://www.youtube.com/watch?v=rTuVt89yVTM)|[Tutorial in English by Team Fatal](https://www.youtube.com/watch?v=FZTslOMIPpQ)|
+|[My version 2 announcement video!](https://www.youtube.com/watch?v=rTuVt89yVTM)|[Making a BETTER Super Mario 3D All Stars than Nintendo](https://www.youtube.com/watch?v=rD4iMgcAkiw)|
 |:--:|:--:|
-|[![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)|[![](https://img.youtube.com/vi/FZTslOMIPpQ/0.jpg)](https://www.youtube.com/watch?v=FZTslOMIPpQ)|
-|**[Tutorial in British by Twin Cherry Studio](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)**|**[Tutoriales en Español por EmuJavier](https://www.youtube.com/watch?v=-g-mNM1IOJY)**|
-|[![](https://img.youtube.com/vi/ZCy7O19Z2Nc/0.jpg)](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)|[![](https://img.youtube.com/vi/-g-mNM1IOJY/0.jpg)](https://www.youtube.com/watch?v=-g-mNM1IOJY)|
-|**[Tutoriales en Español por IORIPTY](https://www.youtube.com/watch?v=wWrCvXxWP7U)**|**[Fan Trailer by KitsuneFelix](https://www.youtube.com/watch?v=ml8A9z1pzKc)**|
-|[![](https://img.youtube.com/vi/wWrCvXxWP7U/0.jpg)](https://www.youtube.com/watch?v=wWrCvXxWP7U)|[![](https://img.youtube.com/vi/ml8A9z1pzKc/0.jpg)](https://www.youtube.com/watch?v=ml8A9z1pzKc)|
+|[![](https://img.youtube.com/vi/rTuVt89yVTM/0.jpg)](https://www.youtube.com/watch?v=rTuVt89yVTM)|[![](https://img.youtube.com/vi/rD4iMgcAkiw/0.jpg)](https://www.youtube.com/watch?v=rD4iMgcAkiw)|
+|**[Tutorial in English by Twin Cherry Studio](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)**|**[Fan Trailer by KitsuneFelix](https://www.youtube.com/watch?v=ml8A9z1pzKc)**|
+|[![](https://img.youtube.com/vi/ZCy7O19Z2Nc/0.jpg)](https://www.youtube.com/watch?v=ZCy7O19Z2Nc)|[![](https://img.youtube.com/vi/ml8A9z1pzKc/0.jpg)](https://www.youtube.com/watch?v=ml8A9z1pzKc)|
 |**[Tutoriel en Français par Super Saiyan Crew](https://www.youtube.com/watch?v=Jq06XdusLK0)**|**[Gameplay by Free Emulator](https://www.youtube.com/watch?v=gnuTaCw_3oo)**|
 |[![](https://img.youtube.com/vi/Jq06XdusLK0/0.jpg)](https://www.youtube.com/watch?v=Jq06XdusLK0)|[![](https://img.youtube.com/vi/gnuTaCw_3oo/0.jpg)](https://www.youtube.com/watch?v=gnuTaCw_3oo)|
 
@@ -105,7 +103,7 @@ I would test some textures using the waifu2x web version and the desktop version
 ## Donate!
 
 Patreon:
-<https://www.patreon.com/qashto>
+<https://www.patreon.com/nostlan>
 
 Paypal:
 <https://www.paypal.me/qashto/5>
